@@ -36,6 +36,9 @@ It is recommended to do the steps in the provided order:
 
 ## Covered topics in this tutorial
 
+This course will cover the basics of using git and GitHub for simple version control and collaborative tasks, and is 
+designed to be highly interactive. At the end of the class, participants will know how to:
+
 - navigate GitHub
 - navigate the git GUI "GitKraken"
 - clone a repository
