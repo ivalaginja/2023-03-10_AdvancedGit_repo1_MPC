@@ -32,3 +32,13 @@ It is recommended to do the steps in the provided order:
       - navigate to https://github.com/, which will put you on your personal landing page
       - on the top right, find the icon of your own profile, click it, and look at the menu button "Signed in as ..."
       - That's your GitHub handle - "Signed in as **my-github-handle**"
+
+
+## Covered topics in this tutorial
+
+- navigate GitHub
+- navigate the git GUI "GitKraken"
+- clone a repository
+- make a new branch, stage and commit changes
+- merge branches and create pull requests
+- review pull requests
