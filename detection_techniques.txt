@@ -1,0 +1,3 @@
+There are several different exoplanet detection techniques.
+
+ONe of them is radial velocity, and in this file I am going to tell you all about it, because it is really cool!
