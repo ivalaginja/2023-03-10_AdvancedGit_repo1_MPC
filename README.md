@@ -6,7 +6,7 @@ GitKraken. We are using text files on purpose, in order to demonstrate how git a
 software development!
 
 For further info, please contact:  
-iva.laginja@lam.fr
+iva.laginja@obspm.fr
 
 If you want to sign up for announcements about further installments of this course, or about a potential advanced git
 course, feel free to sign up here (Google form):  
