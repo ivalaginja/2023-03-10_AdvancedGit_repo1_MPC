@@ -8,10 +8,6 @@ software development!
 For further info, please contact:  
 iva.laginja@obspm.fr
 
-If you want to sign up for announcements about further installments of this course, or about a potential advanced git
-course, feel free to sign up here (Google form):  
-https://forms.gle/CkofT5ASMpfYCYN17
-
 
 ## Requirements for Git for Astronomers Intro:
 
