@@ -6,4 +6,6 @@ Siebtel des Erdvolumens. Damit ist der Mars nach dem Merkur der zweitkleinste Pl
 eine vielfältige Geologie und die höchsten Vulkane des Sonnensystems. Mit einer durchschnittlichen Entfernung von
 228 Millionen Kilometern ist er rund 1,5-mal so weit von der Sonne entfernt wie die Erde.
 
+New line here as well. 
+
 Taken from https://de.wikipedia.org/wiki/Mars_(Planet)
